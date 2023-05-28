@@ -22,3 +22,6 @@ Me chamo **Lucas**, tenho 20 anos, atualmente estudando **Front-end** nas lingua
  <a href="https://twitch.tv/lucasskn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://open.spotify.com/user/22hiusqtk3s2invthetys4hjq" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
+<br>
+
+<img align="center" alt="monkey-lover" src="https://media.tenor.com/pQy2u6P0RxYAAAAC/monkey.gif">
