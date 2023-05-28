@@ -9,7 +9,7 @@ Me chamo **Lucas**, tenho 20 anos, atualmente estudando **Front-end** nas lingua
   <img align="center" alt="lucas-skills" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div>
 
-## 📖 Learning 🖋
+## 📖 Learning
 <div style="display: inline_block">
   <img align="center" alt="lucas-learn" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="lucas-learn" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
